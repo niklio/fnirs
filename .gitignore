@@ -1,4 +1,3 @@
 logs/
 old_logs/
-data/train/
-data/test/
+data/*
